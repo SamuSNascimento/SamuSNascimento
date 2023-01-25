@@ -3,7 +3,8 @@ Olá, sou Samuel Nascimento
 - 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando React e TypeScript
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: samuelsantosn4@gmail.com
+- 📫 contacte-me no email: devbatistacontato@gmail.com
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/SamuSNascimento">
@@ -12,20 +13,22 @@ Olá, sou Samuel Nascimento
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" title="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" title="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
  ##
   
   <div> 
-  <a href="https://www.instagram.com/samuel_n4scimento/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:samuelsantosn4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/samuel-santos-178ab21b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
   
-    ![Snake animation](https://github.com/SamuSNascimento/SamuSNascimento/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+  <a href="https://www.instagram.com/samuel_n4scimento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:samuelsantosn4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/samuel-santos-178ab21b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/SamuSNascimento/SamuSNascimento/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
