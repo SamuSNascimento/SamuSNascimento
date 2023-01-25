@@ -3,8 +3,7 @@ Olá, sou Samuel Nascimento
 - 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando React e TypeScript
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: devbatistacontato@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contacte-me no email: samuelsantosn4@gmail.com
 
 <div align="center">
   <a href="https://github.com/SamuSNascimento">
