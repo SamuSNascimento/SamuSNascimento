@@ -29,5 +29,3 @@ Olá, sou Samuel Nascimento
  
  
 </div>
-
-![Snake animation](https://github.com/SamuSNascimento/SamuSNascimento/blob/output/github-contribution-grid-snake.svg)
