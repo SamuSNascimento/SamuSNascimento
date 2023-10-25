@@ -1,8 +1,7 @@
 Olá, sou Samuel Nascimento
 
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando React e TypeScript
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
+- 🔭 Hoje Trabalho com Back-end
+- 🌱 Estudando C#, ASP.NET e .NET CORE
 - 📫 contacte-me no email: samuelsantosn4@gmail.com
 
 <div align="center">
@@ -12,11 +11,14 @@ Olá, sou Samuel Nascimento
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" href="https://www.typescriptlang.org/" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" href="https://react.dev/" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" alt="Samuel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" href="https://git-scm.com/docs/git" alt="Samuel-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    
 </div>
   
  ##
