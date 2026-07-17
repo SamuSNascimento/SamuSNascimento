@@ -36,8 +36,6 @@ Desenvolvedor Full Stack com cerca de 3 anos de experiência construindo e moder
 | Serviço de impressão | .NET 8 BackgroundService, SSE, VPN L2TP/IPsec, ZPL via TCP/IP, Mikrotik API |
 | Infra | Docker, GitHub Actions (self-hosted runner), ambientes de produção e homologação |
  
-O serviço de impressão escuta eventos via Server-Sent Events, gerencia conexões VPN em Windows e Linux, resolve dinamicamente o IP da impressora de cada cliente pela API do Mikrotik e envia as etiquetas ZPL por TCP — permitindo impressão remota em redes privadas dos clientes.
- 
 ---
  
 ### Stack
