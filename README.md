@@ -19,7 +19,7 @@
 Desenvolvedor Full Stack com cerca de 3 anos de experiência construindo e modernizando aplicações web corporativas. Atuo no backend com **.NET/C#** e **SQL Server** e no frontend com **Vue.js**, **React** e **Next.js**.
  
 - 🚀 Hoje na **nstech**, desenvolvendo módulos do eCargo (gestão logística) em arquitetura de microserviços
-- 🏗️ Idealizei e mantenho o **Convel**, um SaaS de controle de validade e etiquetagem em produção para restaurantes — do backend ao mobile, incluindo CI/CD e infraestrutura
+- 🏗️ Participei da idealização e Mantenho o **Convel**, um SaaS de controle de validade e etiquetagem em produção para restaurantes — do backend ao mobile, incluindo CI/CD e infraestrutura
 - 🧩 Experiência em ERP de alta escala, modernização de sistemas legados (ASP Clássico/VB6) e integrações entre plataformas
 - 📫 Contato: **samuelsantosn4@gmail.com**
 ---
